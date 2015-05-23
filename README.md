@@ -1,3 +1,3 @@
 # README
 
-This is a test repo for playing aroung with git.
+This is a test repo for playing around with git.
